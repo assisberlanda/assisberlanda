@@ -12,6 +12,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/assisberlanda)
 
+[![LinkedIn](https://img.shields.io/badge/Meu_Artigo-252?style=for-the-badge&logo=react&logoColor=red)](https://medium.com/@berlanda.medeiros/ti-para-iniciantes-voc%C3%AA-sabe-por-onde-come%C3%A7ar-5ff8586d8112)
+
 ### Grau de Instrução
 
 ✨ Atualmente estudo Engenharia de Software na Unicesumar.
