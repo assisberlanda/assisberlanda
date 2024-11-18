@@ -1,4 +1,7 @@
-# Olá! Meu nome é Assis Berlanda 👋
+# Assis Berlanda de Medeiros
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/assisberlanda)](https://github.com/assisberlanda)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/assismedeiros/)](https://www.linkedin.com/in/assismedeiros/)
+[![Medium Badge](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@berlanda.medeiros)](https://medium.com/@berlanda.medeiros)
 ### Sobre mim:
     
 - Sou estudante de Engenharia de Software com nível avançado de inglês. Durante esse tempo na faculdade, estou me dedicando a diversos cursos na área de tecnologia tais como: Python, HTML/CSS, Business Agile, Banco de Dados, Cybersegurança, IA Generativa e atualmente estou focado em DevOps.
@@ -6,14 +9,6 @@
 ** E estou buscando oportunidade de estágio.
 
 - Como profissional, combino inteligência emocional com criatividade para solucionar problemas complexos e gerar resultados inovadores. Sou resiliente e adaptável, encontrando soluções eficazes em ambientes em constante mudança. Tenho um forte desejo de aprender e me manter atualizado com as últimas tendências e tecnologias. 
-   
-### Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assismedeiros/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/assisberlanda)
-
-[![LinkedIn](https://img.shields.io/badge/Meu_Artigo-252?style=for-the-badge&logo=react&logoColor=red)](https://medium.com/@berlanda.medeiros/ti-para-iniciantes-voc%C3%AA-sabe-por-onde-come%C3%A7ar-5ff8586d8112)
-
 ### Grau de Instrução
 
 ✨ Atualmente estudo Engenharia de Software na Unicesumar.
