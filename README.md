@@ -8,6 +8,7 @@
 [![Gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/assisberlanda)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@berlanda.medeiros)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)](https://br.pinterest.com/techBerlanda/)
+
 ### Sobre mim:
     
 - Sou estudante de Engenharia de Software com nível avançado de inglês. Durante esse tempo na faculdade, estou me dedicando a diversos cursos na área de tecnologia tais como: Python, HTML/CSS, Business Agile, Banco de Dados, Cybersegurança, IA Generativa e atualmente estou focado em DevOps.
@@ -22,7 +23,6 @@
 [![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=serverRestAPI)](https://github.com/assisberlanda/serverRestAPI)
 [![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=k8s-projeto1-app-base)](https://github.com/assisberlanda/k8s-projeto1-app-base)
 [![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=gitlhub-cicd-app-base)](https://github.com/assisberlanda/gitlhub-cicd-app-base)
-[![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=Docker-Microservicos)](https://github.com/assisberlanda/Docker-Microservicos)
 
 ### Tecnologias
        
