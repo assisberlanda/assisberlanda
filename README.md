@@ -15,7 +15,6 @@
 ## ⚡ Últimos Portfólio
 [![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=serverRestAPI)](https://github.com/assisberlanda/serverRestAPI)
 [![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=k8s-projeto1-app-base)](https://github.com/assisberlanda/k8s-projeto1-app-base)
-[![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=kubernetes)](https://github.com/assisberlanda/kubernetes)
 [![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=gitlhub-cicd-app-base)](https://github.com/assisberlanda/gitlhub-cicd-app-base)
 [![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=Docker-Microservicos)](https://github.com/assisberlanda/Docker-Microservicos)
 
