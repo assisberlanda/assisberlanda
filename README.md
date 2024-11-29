@@ -9,13 +9,15 @@
 ** E estou buscando oportunidade de estágio.
 
 - Como profissional, combino inteligência emocional com criatividade para solucionar problemas complexos e gerar resultados inovadores. Sou resiliente e adaptável, encontrando soluções eficazes em ambientes em constante mudança. Tenho um forte desejo de aprender e me manter atualizado com as últimas tendências e tecnologias. 
-### Grau de Instrução
+### ✨ Engenharia de Software - Unicesumar
+[![roadmap.sh](https://roadmap.sh/card/tall/6749e7e050394310757b9b24?variant=dark)](https://roadmap.sh)
 
-✨ Atualmente estudo Engenharia de Software na Unicesumar.
-
-### Idioma
-
-Inglês – Avançado.
+## ⚡ Últimos Portfólio
+[![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=serverRestAPI)](https://github.com/assisberlanda/serverRestAPI)
+[![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=k8s-projeto1-app-base)](https://github.com/assisberlanda/k8s-projeto1-app-base)
+[![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=kubernetes)](https://github.com/assisberlanda/kubernetes)
+[![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=gitlhub-cicd-app-base)](https://github.com/assisberlanda/gitlhub-cicd-app-base)
+[![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=Docker-Microservicos)](https://github.com/assisberlanda/Docker-Microservicos)
 
 ### Tecnologias
        
