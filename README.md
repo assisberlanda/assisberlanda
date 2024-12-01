@@ -1,6 +1,6 @@
-# Assis Berlanda de Medeiros
+# Assis Berlanda de Medeiros 
 <!--
-[![]()]()
+
 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assismedeiros/)
 [![Linktree](https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/techberlanda)
@@ -23,9 +23,8 @@
 [![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=serverRestAPI)](https://github.com/assisberlanda/serverRestAPI)
 [![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=k8s-projeto1-app-base)](https://github.com/assisberlanda/k8s-projeto1-app-base)
 
-
-### Tecnologias
-![HTML5](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
+## ⚡ Tecnologias
+![HTML5](https://img.shields.io/badge/HTML-e34c26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -39,10 +38,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-BD081C?style=flat&logo=openjdk&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=white)
+
+## ☁️ Clouds
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=orange)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=red)
-     
+
+## ⚡ Linguagens
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=assisberlanda&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)               
 ## ⚡ Git stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=assisberlanda&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
