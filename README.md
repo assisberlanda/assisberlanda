@@ -9,7 +9,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@berlanda.medeiros)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)](https://br.pinterest.com/techBerlanda/)
 
-| <h3>Sobre mim</h3> | [Meu Repositório](https://techdevops.replit.app/) |
+| <h3>Sobre mim</h3> | [Meu Portifólio](https://techdevops.replit.app/) |
 |-|-|
 | Sou estudante de Engenharia de Software com nível avançado de inglês. Durante esse tempo na faculdade, estou me dedicando a diversos cursos na área de tecnologia tais como: Python, HTML/CSS, Business Agile, Banco de Dados, Cybersegurança, IA Generativa e atualmente estou focado em DevOps. | ![QR code Portifólio](https://github.com/assisberlanda/assisberlanda/blob/main/qrCode_Portifolio.png) |
 
