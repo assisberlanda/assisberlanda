@@ -20,8 +20,8 @@
 [![roadmap.sh](https://roadmap.sh/card/tall/6749e7e050394310757b9b24?variant=dark)](https://roadmap.sh)
 
 ## ⚡ Últimos Portfólio
-[![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=serverRestAPI)](https://github.com/assisberlanda/Sou-Solidario)
-[![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=k8s-projeto1-app-base)](https://github.com/assisberlanda/intuitiveCare)
+[![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=Sou-Solidario)](https://github.com/assisberlanda/Sou-Solidario)
+[![Wiki Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=assisberlanda&repo=intuitiveCare)](https://github.com/assisberlanda/intuitiveCare)
 
 ## ⚡ Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML-e34c26?style=plastic&logo=html5&logoColor=white)
