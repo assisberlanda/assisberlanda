@@ -11,7 +11,7 @@
 
 | <h3>Sobre mim</h3> | [![Meu Repositorio Link](https://replit.com/badge?caption=Portifólio)](https://tech-devops.netlify.app/) |
 |-|:-:|
-| Sou estudante de Engenharia de Software com nível avançado de inglês. Durante esse tempo na faculdade, estou me dedicando a diversos cursos na área de tecnologia tais como: Python, HTML/CSS, Business Agile, Banco de Dados, Cybersegurança, IA Generativa e atualmente estou focado em DevOps. | <a href="https://tech-devops.netlify.app/"><img src="https://github.com/assisberlanda/assisberlanda/blob/main/qrCode_LinkedIn.jpeg" alt="QR code Portifólio" width="270" height="100"></a> |
+| Sou estudante de Engenharia de Software com nível avançado de inglês. Durante esse tempo na faculdade, estou me dedicando a diversos cursos na área de tecnologia tais como: Python, HTML/CSS, Business Agile, Banco de Dados, Cybersegurança, IA Generativa e atualmente estou focado em DevOps. | <a href="https://tech-devops.netlify.app/"><img src="https://github.com/assisberlanda/assisberlanda/blob/main/qrCode_LinkedIn.jpeg" alt="QR code Portifólio" width="280" height="100"></a> |
 
 ** E estou buscando oportunidade de estágio.
 
